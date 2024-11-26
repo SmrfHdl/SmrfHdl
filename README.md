@@ -4,8 +4,6 @@
 <h3 align="center">Feel free to call me SmrfHdl! I'm an aspiring Artificial Intelligence enthusiast, currently pursuing my studies in this exciting field.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXo5eGt0c2RlbGs2b21jeWQ2dmFxbjRtamE2cG02bTBjNmlrM200cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YtCAXWS94FZbWiKmKH/giphy.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smfhdl&label=Profile%20views&color=0e75b6&style=flat" alt="smfhdl" /> </p>
-
 - 🌱 I’m currently learning **Deep Learning, Natural Language Processing, Computer Vision, ...**
 
 - 👨‍💻 All of my projects are available at [https://smrfhdl.github.io/](https://smrfhdl.github.io/)

@@ -1,4 +1,4 @@
-[![MasterHead](https://c7.alamy.com/comp/2A2MAN9/artificial-intelligence-minimal-infographic-banner-vector-2A2MAN9.jpg)](https://smrfhdl.github.io)
+[![MasterHead](https://camo.githubusercontent.com/3167026abe932fe28cb61a7308549da706bc1a8ee81a3cc3169ea75991d2e3d5/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)](https://smrfhdl.github.io)
 
 <h1 align="center">Hi 👋, my name is Truong</h1>
 <h3 align="center">Feel free to call me SmrfHdl! I'm an aspiring Artificial Intelligence enthusiast, currently pursuing my studies in this exciting field.</h3>

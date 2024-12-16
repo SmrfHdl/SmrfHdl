@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Natural Language Processing, Computer Vision, ...**
 
-- 👨‍💻 All of my projects are available at [https://smrfhdl.github.io/](https://smrfhdl.github.io/)
+- 👨‍💻 All of my projects are available at [My blog](https://smrfhdlai.wordpress.com/)
 
 - 📫 How to reach me **phamvantruong2442004@gmail.com**
 
